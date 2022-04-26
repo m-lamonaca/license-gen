@@ -1,0 +1,39 @@
+[
+  // {
+  //   "spdx": "",
+  //   "name": "",
+  //   "version": null,
+  //   "hasAttribution": false,
+  // },
+  {
+    "spdx": "Apache-2.0",
+    "name": "Apache Software License",
+    "version": "2.0",
+    "hasAttribution": false,
+    "eachFile": true
+  },
+  {
+    "spdx": "0BSD",
+    "name": "Zero-Clause BSD License",
+    "version": null,
+    "hasAttribution": false
+  },
+  {
+    "spdx": "BSD-2-Clause",
+    "name": "2-Clause BSD License",
+    "version": null,
+    "hasAttribution": false
+  },
+  {
+    "spdx": "BSD-3-Clause",
+    "name": "3-Clause BSD License",
+    "version": null,
+    "hasAttribution": false
+  },
+  {
+    "spdx": "MIT",
+    "name": "MIT License",
+    "version": null,
+    "hasAttribution": true
+  }
+]
